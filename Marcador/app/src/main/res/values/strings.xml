@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Marcador</string>
+    <string name="Texto1">LOCAL</string>
+    <string name="texto2">VISITANTE</string>
+    <string name="r1">0</string>
+    <string name="r2">0</string>
+    <string name="b1">+1</string>
+    <string name="b2">+2</string>
+    <string name="b3">+3</string>
+    <string name="b4">+1</string>
+    <string name="b5">+2</string>
+    <string name="b6">+3</string>
+    <string name="b7">Limpiar</string>
+    <string name="b8">Salir</string>
+</resources>
